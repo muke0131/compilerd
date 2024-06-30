@@ -44,6 +44,7 @@ const isValidForExecute = async (body) => {
             Joi.string().pattern(/^[a-fA-F0-9]{64}$/)
         ).optional(),
         points: Joi.number().integer().optional(), // totalScore
+        // points:Joi.string(),
         hasInputFiles: Joi.bool(),
         args: Joi.string(),
         stdin: Joi.string(),
