@@ -2,7 +2,7 @@
 
 ![Code Debugger Screenshot](./images/screenshot1.png)
 
-![Code Debugger Screenshot](./images/screenshot1.png)
+![Code Debugger Screenshot](./images/screenshot2.png)
 
 # Quick Usage :
 
